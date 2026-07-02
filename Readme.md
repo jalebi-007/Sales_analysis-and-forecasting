@@ -145,10 +145,9 @@ Retail-Demand-Analytics-Forecasting/
 
 ## Author
 
-Mohammed Danish
+Md Affan
 
 LinkedIn:
-https://www.linkedin.com/in/mohammed-danish-318860251/
-
+https://www.linkedin.com/in/md-affan-a62211230
 GitHub:
-https://github.com/danish-dan13
+https://github.com/jalebi-007
